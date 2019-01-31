@@ -1,2 +1,2 @@
-# Website-Builder
-A website to create Websites
+# WebsiteBuilding
+Learning to create website with bootstrap and jquery
